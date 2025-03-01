@@ -13,5 +13,5 @@ Sanidad loves problem-solving and continuously exploring new concepts in the fie
 - High School: Sapangbato National High School
 - Elementary: Tacondo Elementary School
 
-## My Projets
+## My Projects
 - Midterm Lab Task 1:  [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
