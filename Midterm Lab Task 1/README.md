@@ -18,8 +18,9 @@
 - Perform 3NF
 - Mapped the Normalized Table as a Physical Data Model
 
-## STEP 3 Here's the screenshot of my output before I started data cleaning (SEE screenshot)[](IMAGES/way_to_cleanRaw.png)
+## STEP 3 Here's the screenshot of my output before I started data cleaning (SEE screenshot)
+![](IMAGES/way-to-cleanRaw.png)
 
-##STEP 4 Here's the screenshot of my output after I started data cleaning (SEE screenshot)
+## STEP 4 Here's the screenshot of my output after I started data cleaning (SEE screenshot)
 
 ## Here's the Physical Data model
