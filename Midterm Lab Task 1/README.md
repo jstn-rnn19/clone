@@ -25,3 +25,9 @@ In this task we are give a raw data from excel to perform data cleaning and prep
 ![step 4 output](task%201%20image/after.png)
 ## Here's the Data model
 ![Data model I createed](task%201%20image/data%20model.png)
+
+## Here's the finish work
+- Normalized
+[normalized file](Midterm%20Lab%20Task%201/Task%201%20xlsx%20file/Normalized.xlsx)
+- Finish file
+  [Finish file](Midterm%20Lab%20Task%201/Task%201%20xlsx%20file/Finished%20Justine%20reinn%20sanidad%20task%201.xlsx)
