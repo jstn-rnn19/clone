@@ -27,4 +27,7 @@ In this task we are give a raw data from excel to perform data cleaning and prep
 ![Data model I createed](task%201%20image/data%20model.png)
 
 ## Here's the finish work
-![Click Here for Excel file Used](Task%201%20xlsx%20file/Normalized.xlsx)
+- Normalized file
+[Normalized file](Task%201%20xlsx%20file/Normalized.xlsx)
+- Finish file
+[Finish file](Task%201%20xlsx%20file/Finished%20Justine%20reinn%20sanidad%20task%201.xlsx)
