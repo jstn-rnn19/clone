@@ -27,4 +27,4 @@ In this task we are give a raw data from excel to perform data cleaning and prep
 ![Data model I createed](task%201%20image/data%20model.png)
 
 ## Here's the finish work
-![Click Here for Excel file Used](Midterm%20Lab%20Task%201/Task%201%20xlsx%20file)
+![Click Here for Excel file Used](Task%201%20xlsx%20file/Normalized.xlsx)
