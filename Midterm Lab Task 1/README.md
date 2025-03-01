@@ -1,5 +1,5 @@
 ## Midterm Lan Task 1 Data Cleaning using Excel
-### In this task we are give a raw data from excel to perform data cleaning and preparation for power query
+In this task we are give a raw data from excel to perform data cleaning and preparation for power query
 
 ## STEP 1 Data cleaning proccess
 - Load the raw file in excel
