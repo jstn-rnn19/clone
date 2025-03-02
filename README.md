@@ -2,10 +2,7 @@
 This portfolio will contain copies of my Enterprise Data Management Lab Activities/Exercises
 
 ## About Me
-Justine Reinn Sanidad is a first-year student pursuing a Bachelor of Science in Information Systems. Passionate about coding,
-he enjoy learning and experimenting with different programming languages. Having already mastered the fundamentals of C, he
-currently studying Python in college to further expand his skills. With a strong curiosity for technology, Justine Reinn
-Sanidad loves problem-solving and continuously exploring new concepts in the field of programming.
+I’m a first-year Information Systems student with a passion for coding. I have a decent grasp of C language and am currently learning Python to expand my skills. I enjoy solving problems through code and continuously improving my programming abilities.
 
 ## Education
 - Currently taking 1st year college
