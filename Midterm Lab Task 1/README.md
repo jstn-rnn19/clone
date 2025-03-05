@@ -9,7 +9,7 @@ In this task we are give a raw data from excel to perform data cleaning and prep
 - Remove NULL values
 - Spell Check
 - Data Validation
-- Handle Errors with IFERROR and FInd and Replace
+- Handle Errors with IFERROR and Find and Replace
 - Number Format
 
 ## STEP 2 Normalization
