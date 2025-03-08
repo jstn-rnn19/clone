@@ -1,0 +1,8 @@
+let
+    Source = Excel.Workbook(File.Contents("C:\Users\reinn\Downloads\state_mapping.xlsx"), null, true),
+    states_Sheet = Source{[Item="states",Kind="Sheet"]}[Data],
+    #"Changed Type" = Table.TransformColumnTypes(states_Sheet,{{"Column1", type text}, {"Column2", type text}}),
+    #"Promoted Headers" = Table.PromoteHeaders(#"Changed Type", [PromoteAllScalars=true]),
+    #"Changed Type1" = Table.TransformColumnTypes(#"Promoted Headers",{{"Full Name", type text}, {"2-letter USPS", type text}})
+in
+    #"Changed Type1"
