@@ -1,12 +1,9 @@
 let
     Source = #"Uncleaned_DS_jobs (2)",
-    #"Changed Type" = Table.TransformColumnTypes(Source,{{"Max Sal", Currency.Type}, {"Min Sal", Currency.Type}}),
+    #"Removed Other Columns" = Table.SelectColumns(Source,{"Min Sal", "Max Sal", "states.Full Name"}),
+    #"Changed Type" = Table.TransformColumnTypes(#"Removed Other Columns",{{"Min Sal", Currency.Type}, {"Max Sal", Currency.Type}}),
     #"Multiplied Column" = Table.TransformColumns(#"Changed Type", {{"Min Sal", each _ * 1000, Currency.Type}}),
     #"Multiplied Column1" = Table.TransformColumns(#"Multiplied Column", {{"Max Sal", each _ * 1000, Currency.Type}}),
-    #"Removed Other Columns" = Table.SelectColumns(#"Multiplied Column1",{"Min Sal", "Max Sal", "State Full Name"}),
-    #"Grouped Rows" = Table.Group(#"Removed Other Columns", {"State Full Name"}, {{"Count", each Table.RowCount(_), Int64.Type}, {"Avg Min Sal", each List.Min([Min Sal]), type number}, {"avg Max Sal", each List.Max([Max Sal]), type number}}),
-    #"Expanded State Full Name" = Table.ExpandTableColumn(#"Grouped Rows", "State Full Name", {"Full Name"}, {"State Full Name.Full Name"}),
-    #"Filtered Rows" = Table.SelectRows(#"Expanded State Full Name", each [State Full Name.Full Name] <> null and [State Full Name.Full Name] <> ""),
-    #"Renamed Columns" = Table.RenameColumns(#"Filtered Rows",{{"State Full Name.Full Name", "State Full Name"}})
+    #"Grouped Rows" = Table.Group(#"Multiplied Column1", {"states.Full Name"}, {{"Count", each Table.RowCount(_), Int64.Type}, {"Avg Min Sal", each List.Min([Min Sal]), type number}, {"Avg Max Sal", each List.Max([Max Sal]), type number}})
 in
-    #"Renamed Columns"
+    #"Grouped Rows"
