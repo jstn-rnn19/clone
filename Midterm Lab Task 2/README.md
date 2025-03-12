@@ -46,17 +46,17 @@ on generating insights that will answer the ff: questions
 ## Dataset Before Cleaninng and Transformation(Screenshot)
 ![](image/Screenshot%202025-03-11%20124129.png)
 ## Dataset After cleaning and Transformation (Screenshot)
-![](image/Screenshot%202025-03-11%20124427.png)
+![](image/after.png)
 ### Screenshot every queries
 #### Sal by Role Type dup
-![sal by role type dup](image/Sal%20by%20role%20type%20dup.png)
+![sal by role type dup](image/Role%20Type.png)
 #### Sal by Role Size ref
-![Sal by Role Size ref](image/sal%20by%20role%20size%20ref.png)
+![Sal by Role Size ref](image/Size%20Ref.png)
 #### Sal by States ref
-![Sal by States ref](image/Sal%20by%20state%20ref.png)
+![Sal by States ref](image/State%20Ref.png)
 
 ## Viewing Dependencies and References(SEE Screenshot)
-![Query Dependencies](image/Query%20dependencies.png)
+![Query Dependencies](image/Dependencies.png)
 
 
 
