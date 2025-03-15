@@ -19,4 +19,5 @@ Beyond academics, I love experimenting with new coding projects, exploring advan
 
 ## My Projects
 ### **Midterm Lab Task 1:** [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
+
 ### **Midterm Lab Task 2:** [Data Cleaning and Transformation using POWER QUERY](Midterm%20Lab%20Task%202)
