@@ -29,13 +29,13 @@ Well-structured **Power Query Steps Documentation**.
 
 Functional **Slicers and Map Chart (if available)**.
 ## Here is the data before creating pivot table and chart
-Sal By Role Size ref
+#### Sal By Role Size ref
 ![screenshot](image/Screenshot%202025-03-15%20205445.png)
-Sal By State ref
+#### Sal By State ref
 ![Screenshot](image/Screenshot%202025-03-15%20205455.png)
-Uncleaned_DS_jobs (2)
+#### Uncleaned_DS_jobs (2)
 ![Sccreenshot](image/Screenshot%202025-03-15%20205505.png)
-Sal By Role Type dup
+#### Sal By Role Type dup
 ![Screenshot](image/Screenshot%202025-03-15%20205517.png)
 ## Here is the screenshot after creating pivot table and chart
 ![Screenshot](image/Screenshot%202025-03-15%20205153.png)
