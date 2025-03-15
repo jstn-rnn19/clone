@@ -10,7 +10,7 @@ Beyond academics, I love experimenting with new coding projects, exploring advan
 
 ## Education
 **Currently taking 1st year college** 
-Senior High School: Sapangbato National High School - Senior High School
+**Senior High School:** Sapangbato National High School - Senior High School
 **High School:** Sapangbato National High School
 **Elementary:** Tacondo Elementary School
 
