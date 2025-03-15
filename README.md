@@ -22,4 +22,4 @@ Beyond academics, I love experimenting with new coding projects, exploring advan
 
 #### **Midterm Lab Task 2:** [Data Cleaning and Transformation using POWER QUERY](Midterm%20Lab%20Task%202)
 
-#### **Midterm Lab Task 3:** [Creating Pivot Tables and Charts](Midterm%20Lab%20Task%201)
+#### **Midterm Lab Task 3:** [Creating Pivot Tables and Charts](Midterm%20Lab%20Task%203)
