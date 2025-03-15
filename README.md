@@ -9,11 +9,11 @@ As I progress in my studies, I’m excited to dive deeper into areas like progra
 Beyond academics, I love experimenting with new coding projects, exploring advancements in technology, and expanding my expertise in software development. My ultimate goal is to build a strong foundation in Information Systems and contribute to innovative solutions that improve efficiency and drive success in the tech industry. I'm excited about the journey ahead and the opportunities to learn, grow, and make a meaningful impact!
 
 ## Education
-- Currently taking 1st year college
-- Senior High School: Sapangbato National High School - Senior High School
-- High School: Sapangbato National High School
-- Elementary: Tacondo Elementary School
+**Currently taking 1st year college** 
+Senior High School: Sapangbato National High School - Senior High School
+**High School:** Sapangbato National High School
+**Elementary:** Tacondo Elementary School
 
 ## My Projects
-- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
-- Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](Midterm%20Lab%20Task%202)
+**Midterm Lab Task 1:** [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task%201/README.md)
+**Midterm Lab Task 2:** [Data Cleaning and Transformation using POWER QUERY](Midterm%20Lab%20Task%202)
