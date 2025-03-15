@@ -1,1 +1,14 @@
+title: "EDM Portfolio"
+description: "Enterprise Data Management Portfolio"
+author: Sanidad, Justine Reinn V.
+remote_theme: pages-themes/minimal@v0.2.0
+logo: ""
+
+show_downloads: true
+
+github:
+  is_project_page: true
+
+plugins:
+  - jekyll-remote-theme
 
