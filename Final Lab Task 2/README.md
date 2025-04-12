@@ -6,6 +6,10 @@ tables. Capture all entities and their attributes, and define the relationships 
 submissions, and assignments. Identify the primary and foreign keys and ensure proper representation of any dependent or weak entities.  
 ![ER model](image/model.png)
 ## REQUIRED OUTPUT
+1. Query statements (Task 1-4 including the table relationship)
+2. Table Structure (Task 1- 4 including the table relationship)
+3. ER Diagram or Relational schema from phpMyAdmin or Workbench (pdf or jpg file)
+4. Sql copy of the database and table structures
 ## STEP 1:
 - Open XAMPP and start the Apatche and MySQL then open MySQL workbench
 - Add a new connection
