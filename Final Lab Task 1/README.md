@@ -47,7 +47,7 @@ The following are the tasks that need to be implemented using MySQL statements. 
   <!-- screenshots and code  -->
 ## HERE IS THE SCREENSHOT OF TASK 1 TO TASK 4 
 ### task 1
-![](images/blob/main/final%20lab/task%201/task%201%20-%20task%201.png)  
+![](https://github.com/jstn-rnn19/images/blob/main/final%20lab/task%201/task%201%20-%20task%201.png)  
 - code  
   `CREATE TABLE employees_tbl (employee_id INT(3) UNIQUE AUTO_INCREMENT PRIMARY KEY,
  employee_name VARCHAR(255) NOT NULL, 
