@@ -25,6 +25,4 @@ Beyond academics, I love experimenting with new coding projects, exploring advan
 
 #### **Midterm Lab Task 3:** [Creating Pivot Tables and Charts](Midterm%20Lab%20Task%203)
 ### Final
-#### **Final Lab Task 1:** [MySQL Basic(Multi Level Company Database)](Final%20Lab%20Task%201)
-#### **Final Lab Task 2:** [Transforming ER Model to Relational Tables](Final%20Lab%20Task%202)
-#### **Final Lab Task 3:** [Table Manipulation](Final%20Lab%20Task%203)
+
